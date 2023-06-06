@@ -82,6 +82,8 @@ Your analysis or methods should incorporate the following steps.
 
 2.  Data Evaluation -- Perform bivariate and multivariate analysis, EDA
 
+3.  Medium article [A Classification Approach to Predicting Customer Churn](https://medium.com/hnayiteyadjin/a-classification-approach-to-predicting-customer-churn-f760b18e6bf1)
+
 See attached some useful resources \[ [Exploratory Data Analysis:
 Univariate, Bivariate, and Multivariate
 Analysis](https://www.enjoyalgorithms.com/blog/univariate-bivariate-multivariate-analysis)
